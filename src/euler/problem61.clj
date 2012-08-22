@@ -1,0 +1,2 @@
+(ns euler.problem61
+  (:use euler.util))
