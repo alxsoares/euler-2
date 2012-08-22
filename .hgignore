@@ -1,5 +1,11 @@
 syntax: glob
 
+pom.xml
 *.jar
 *.class
 *~
+lib/*
+classes/*
+target/*
+.lein-deps-sum
+.lein-plugins/*
